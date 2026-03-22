@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Project Documentation
+
+Detailed step-by-step documentation for this project's implementation can be found in the `/docs` directory:
+
+1. **Initial Setup & UI Configuration**: Next.js, Tailwind v4, and Shadcn UI setup.
+2. **Database Setup**: Prisma, Postgres, and Neon integration.
+3. **Authentication Implementation**: Better Auth setup and UI integration.
+4. **Application Security**: Securing routes with Arcjet (Bot detection, Rate limiting, Email validation).
+
 ## Getting Started
 
 First, run the development server:
